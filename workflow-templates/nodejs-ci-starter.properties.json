@@ -1,6 +1,6 @@
 {
-    "name": "Organization Starter Workflow",
-    "description": "Organization NodeJS Init CI starter workflow.",
+    "name": "NodeJS Package Publish Workflow",
+    "description": "NodeJS Package Publish workflow.",
     "categories": [
         "NPM Config"
     ],
