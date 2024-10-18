@@ -1,0 +1,10 @@
+{
+    "name": "PR Comment Workflow",
+    "description": "Workflow for adding GIF comment whenever a PR happens.",
+    "categories": [
+        "PR Comment"
+    ],
+    "filePatterns": [
+        "package.json$"
+    ]
+  }
